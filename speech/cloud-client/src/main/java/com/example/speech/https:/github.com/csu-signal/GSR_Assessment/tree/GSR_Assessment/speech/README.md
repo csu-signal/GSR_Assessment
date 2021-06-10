@@ -1,6 +1,8 @@
 # Getting Started with Google Speech Recognition Assessment
 
-Before you begin, complete the following steps as listed on the [Speech-to-Text Docs pages for Getting Started](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries#before-you-begin)
+We conducted a study to assess the quality of google speech recognizer by collecting audio recordings of 5 domain specific scrips and that results with 110 samples. openRecognizer and restrictedRecognizer evaluations code used to assess open vocabulary google speech recognizer vs restricted google speech recognizer.
+
+Before beginning, complete the following steps as listed on the [Speech-to-Text Docs pages for Getting Started](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries#before-you-begin)
 
 ## OpenRecognizer Evaluation
 - Transcribe local audio files thst are stored in resources folder
